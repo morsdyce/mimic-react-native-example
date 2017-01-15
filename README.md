@@ -2,7 +2,7 @@ A sample project to showcase [Mimic](https://github.com/500tech/mimic) Running o
 
 To get started you first need to install the react-native-cli
 
-`npm i -g react-native-cli`
+`npm install -g react-native-cli`
 
 Afterwards clone the project, install dependencies and run the project using the react-native-cli.
 
